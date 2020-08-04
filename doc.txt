@@ -1,0 +1,1 @@
+https://chainer.github.io/migration-guide/
